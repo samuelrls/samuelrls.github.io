@@ -1,6 +1,6 @@
 # Hi, I'm Samuel Rodrigues 👋
 
-I'm a 17-year-old Systems Development (DS) student at **ETECFP**.
+I'm a Systems Development (DS) student at **ETECFP**.
 
 ## 💻 What I'm Studying
 
